@@ -1,10 +1,10 @@
 # AudioSteganography
 
-## Cmputer Security Project ▶ 
+## Cmputer Security Project 
 - - -
 
-# introduction
+## Introduction
 ![AudioSteganography](image/introduction.JPG)
 
-# 작동 모습
+## GUI
 ![AudioSteganography](image/gui.JPG)
