@@ -4,7 +4,7 @@
 - - -
 
 # introduction
-![AudioSteganography](introduction.JPG)
+![AudioSteganography](image/introduction.JPG)
 
 # 작동 모습
-![AudioSteganography](gui.JPG)
+![AudioSteganography](image/gui.JPG)
